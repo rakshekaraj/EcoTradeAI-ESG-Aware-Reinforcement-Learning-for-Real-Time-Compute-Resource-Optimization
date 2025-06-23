@@ -11,7 +11,7 @@
 
 **EcoTradeAI** is an intelligent agent that dynamically allocates compute resources (ASICs, GPUs, mining rigs) across a simulated energy-inference marketplace, aiming to **maximize profit** while **minimizing ESG costs** like carbon emissions, water consumption, and e-waste.
 
-The project was built in real-time during the [MARA Hackathon 2025](https://mara-hackathon-api.onrender.com) using a **simulated marketplace API provided by MARA**. All price and market data used are synthetic and not representative of real-world values.
+The project was built in real-time during the [MARA Hackathon 2025] using a **simulated marketplace API provided by MARA**. All price and market data used are synthetic and not representative of real-world values.
 
 ---
 
