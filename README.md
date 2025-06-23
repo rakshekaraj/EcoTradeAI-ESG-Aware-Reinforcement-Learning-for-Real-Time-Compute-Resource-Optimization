@@ -27,7 +27,7 @@ The project was built in real-time during the [MARA Hackathon 2025](https://mara
 
 ## 📸 UI Preview
 
-<img src="https://github.com/rakshekaraj/EcoTradeAI-ESG-Aware-Reinforcement-Learning-for-Real-Time-Compute-Resource-Optimization/assets/your_dashboard_image.png" width="600">
+<img width="1427" alt="image" src="https://github.com/user-attachments/assets/1eb211c9-2dfd-4a57-ac82-c1959d35c78b" />
 
 ---
 
